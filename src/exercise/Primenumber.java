@@ -17,7 +17,7 @@ public class Primenumber {
 		boolean yes = true;
 		//最小的質數是2(i從2開始)
 		for(int i = 2; i <= nn; i++){
-			//判斷整除不是質數
+			//判斷0不是質數
 			if(n % i == 0){
 				return false;
 			}
@@ -44,10 +44,6 @@ public class Primenumber {
 			throw new Exception("第二個數要大於第一個數");
 		}
 
-		if(b == a){
-			throw new Exception("2個數不能一樣");
-		}
-		
 		int count = 0;
 		for(int i = a ; a <= i && i < b; i++){
 			if(isPrime(i)){
