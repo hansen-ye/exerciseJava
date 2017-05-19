@@ -1,4 +1,5 @@
-### Swap.class :
+### Swap.java :
+path : exerciseJava/src/exercise/Swap.java  
 不使用一個暫存變數，將 a 與 b 兩個變數交換
 
 第一種方式是使用 XOR 運算：  
