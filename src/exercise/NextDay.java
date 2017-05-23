@@ -3,10 +3,9 @@ package exercise;
 import java.util.*;
 
 /**
+ * <pre>
  * 取明天時間(時間點可自行定義)
- * 
- * @author hansen.sen
- *
+ * </pre>
  */
 public class NextDay {
 	public static void main(String[] args) {

@@ -1,6 +1,10 @@
 package exercise;
 
-//[JAVA]IF的簡化
+/**
+ * <pre> 
+ * [JAVA]IF的簡化
+ * </pre>
+ */
 public class IfElseSimple {
 	public static void main(String args[]) {
 		aa();

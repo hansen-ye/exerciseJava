@@ -2,8 +2,10 @@ package exercise;
 
 import java.util.Scanner;
 
-/* 
+/** 
+ * <pre>
  * 兩個數取中間質數
+ * </pre>
  */
 public class Primenumber {
 	//判斷一個數是否質數
