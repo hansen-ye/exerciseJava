@@ -11,7 +11,7 @@ public class TestVarargs {
 
 	public static void main(String[] args) {
 		int sum = 0;
-		sum = sumvarargs1( 10, 12, 33 );//使用Varargs,可以少字
+		sum = sumvarargs1( 10, 12, 33 );//使用Varargs,可以少打字
 		sum = sumvarargs2(new int[] { 10, 12, 33 });
 		System.out.println("相加和: " + sum);
 
