@@ -1,11 +1,11 @@
 package exercise;
 
-/** 
- *	<pre>
+/**
+ * <pre>
  *  底線格式數值 :
  *  一個數值(整數或浮點數)的表示方式，除了數字、型別符號、正負符號、小數點外，
  *  還能加上底線來增加數值的可讀性。
- *  </pre>
+ * </pre>
  */
 public class BottomLineFormatValues {
 

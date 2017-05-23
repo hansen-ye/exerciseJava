@@ -1,7 +1,7 @@
 package exercise;
 
 /**
- * <pre> 
+ * <pre>
  * [JAVA]IF的簡化
  * </pre>
  */
